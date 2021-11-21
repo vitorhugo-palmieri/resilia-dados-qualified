@@ -15,7 +15,7 @@ def podio_olimpico(tempo_chegada1,tempo_chegada2,tempo_chegada3):
         podio=("1 - {} minutos\n2 - {} minutos\n3 - {} minutos\n".format(tempo_chegada3,tempo_chegada2,tempo_chegada1))
     return podio
 
-
+#  Testes quali
 tempo_chegada1 = 120
 tempo_chegada2 = 90
 tempo_chegada3 = 110
